@@ -1,2 +1,0 @@
-# quhix.github.io
-Site
